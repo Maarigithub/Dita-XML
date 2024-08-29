@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_sum_up_numbers">
+    <title>How to sum up numbers?</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>
+                <equation-figure>
+                    <desc>\Here you can see how to sum two numbers</desc>
+                </equation-figure>
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Enter the first number</cmd>
+            </step>
+            <step>
+                <cmd>Enter the Plus “+” Symbol</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number</cmd>
+            </step>
+            <step>
+                <cmd>chose the equal Button"="</cmd>
+            </step>
+        </steps>
+        <result id="result_zcj_rjx_ncc">
+            <p> The result for two numbers will be displayed</p>
+        </result>
+        <example id="example_zkt_nkx_ncc">
+            <p>If you want add the numbers first number = 5 and second number=6, Then the equation
+                will be 5+6=11, as mentioned above </p>
+            <p>Step1- Enter “5” the first number</p>
+            <p>Step2- Enter “+” Plus Symbol</p>
+            <p>Step3- Enter “6” the second number</p>
+            <p>Step5- Press “=” Equal to symbol </p>
+            <p>The answer will be shown as 5+6=11</p>
+        </example>
+    </taskbody>
+</task>

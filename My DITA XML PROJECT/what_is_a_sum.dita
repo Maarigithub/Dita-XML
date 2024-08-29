@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_a_sum">
+    <title>What is a Sum?</title>
+    <shortdesc>Here we learn what is Sum Up tow numbers</shortdesc>
+    <conbody>
+        <p>The <b>sum</b> is the result of adding two or more numbers together. For example, if you
+            add 3 and 5, the sum is 8.</p>
+        <section id="section_h1w_xmx_ncc">
+            <title>Usage of Sum:</title>
+            <ul id="ul_i1w_xmx_ncc">
+                <li><b>Basic Arithmetic</b>: It's fundamental in everyday math, helping with tasks
+                    like counting, budgeting, and making purchases.</li>
+                <li><b>Data Analysis</b>: Summing values in data sets helps calculate totals,
+                    averages, and other important metrics.</li>
+                <li><b>Programming</b>: Used in loops and algorithms to accumulate values.</li>
+                <li><b>Finance</b>: Helps in calculating total expenses, income, and profits.</li>
+            </ul>
+            <p>The concept of sum is one of the building blocks of mathematics and is widely used in
+                various fields and daily life.</p>
+        </section>
+    </conbody>
+</concept>

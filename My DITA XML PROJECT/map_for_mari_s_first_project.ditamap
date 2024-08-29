@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Map for Mari's first Project</title>
+    <topichead navtitle="Sum UP">
+        <topicref href="what_is_a_sum.dita"/>
+        <topicref href="how_to_sum_up_numbers.dita"/>
+    </topichead>
+    <topichead navtitle="Subtract"/>
+    <topichead navtitle="Multiply"/>
+    <topichead navtitle="Divde"/>
+</map>
